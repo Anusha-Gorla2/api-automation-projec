@@ -1,0 +1,34 @@
+{
+	"id": "b9f1a8ab-2eb3-4e7e-867b-a78d9f6df702",
+	"name": "QA-Mock",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:3000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-04-05T11:09:28.471Z",
+	"_postman_exported_using": "Postman/12.3.6"
+}
